@@ -1,2 +1,1 @@
-# Face-recognizer
-# face-recognizer-2
+# Face-recognition with MTCNN & Facenet
